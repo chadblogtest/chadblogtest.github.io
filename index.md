@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+This is your home page! Write whatever comes to mind.
 
-Maybe say a some things about yourself.
+Maybe an about me section, or a short bio.
 
-Or maybe what you plan to blog about.
+Or maybe you can write a small summary about your blog.
+
+Whatever you want!
