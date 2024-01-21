@@ -14,7 +14,7 @@ twitter_username: "someusername"
 #########################################################################################
 theme: "minima"
 
-#rss: rss
+rss: rss
 
 kramdown:
   syntax_highlighter_opts:
